@@ -4,7 +4,7 @@
 
 > [ACESSE A PÁGINA AQUI](https://feliperos-a.github.io/alura-plus/)
 
-![preview](./.github/preview.png)
+![preview](./.github/preview-alura-plus.png)
 
 ## ⚙️ Tecnologias 
 - HTML
